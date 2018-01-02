@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "602789924495",
+    "firebase_url": "https://queen-7dc48.firebaseio.com",
+    "project_id": "queen-7dc48",
+    "storage_bucket": "queen-7dc48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602789924495:android:897a4294adb6cee3",
+        "android_client_info": {
+          "package_name": "com.nizzi.queen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602789924495-48grcruhhd27h8qf3pi3l1ah5tvkkanu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nizzi.queen",
+            "certificate_hash": "5f0313e1d6c8f42c86b021fa2de4ba76c28a57bc"
+          }
+        },
+        {
+          "client_id": "602789924495-oi0tad6j7na6on1gab9c8pjg5ttm684d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWvgXhK2rNe3ZzNz67uzDoNvX8c9aeDB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602789924495-oi0tad6j7na6on1gab9c8pjg5ttm684d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
